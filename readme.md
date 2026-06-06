@@ -1,28 +1,74 @@
+# 👋 Olá, eu sou o Túlio Henrique!
 
+🚀 Estudante de Sistemas de Informação e futuro Desenvolvedor Full Stack.
 
+Sou apaixonado por tecnologia, programação e pela criação de soluções que facilitam o dia a dia das pessoas. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir minhas habilidades para construir aplicações modernas, eficientes e escaláveis.
 
+---
 
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na/no...
+## 🚀 Sobre Mim
 
-🧠 Estou aprendendo...
+* 🎓 Estudante de Sistemas de Informação
+* 💻 Focado em Desenvolvimento Full Stack
+* 📚 Aprendendo continuamente novas tecnologias
+* 🔍 Interessado em Desenvolvimento Web, Banco de Dados e Arquitetura de Software
+* 🎯 Objetivo: Me tornar um Desenvolvedor Full Stack completo
 
+---
 
+## 👩‍💻 Trabalho atualmente com
 
-## 🚀 Sobre mim
-Eu sou sou uma pessoa apaixonada em tecnolodgia e por soluçoes que ajudam no dia a dia das pessoas! estudante de SI e futuro full stack
+* Desenvolvimento Web
+* Projetos Acadêmicos
+* Aplicações Front-end e Back-end
+* Banco de Dados Relacionais
 
+---
 
-## 🛠 Habilidades
-HTML, CSS, JAVASCRIPT, PYTHON, MYSQL, NODEJS, JAVA,C++,C#,TYPESCRIPT,PHP,DOCKER
+## 🧠 Estou Aprendendo
 
+* React
+* TypeScript
+* PHP
+* C#
+* APIs REST
+* Arquitetura de Software
+* Docker
+* Boas Práticas de Desenvolvimento
 
-# Olá, eu sou o Tulio! 👋
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://www.linkedin.com/in/tulio-henrique-53a02b31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/)
+### Front-end
+
+### Back-end
+
+### Banco de Dados
+
+### Versionamento e Ferramentas
+
+---
+
+## 📊 Estatísticas GitHub
+
+---
+
+## 🐍 Contribuições
+
+---
+
+## 🔗 Contato
+
+[tuliohenrique349@gmail.com](mailto:tuliohenrique349@gmail.com)
+
+https://www.linkedin.com/in/tulio-henrique1008/
+
+---
+
+### 💡 Frase que me inspira
+
+"Transformando ideias em soluções através da tecnologia."
 
 
 
