@@ -1,87 +1,41 @@
-# 👋 Olá, eu sou o Túlio Henrique!
+## ☕ Um pouco mais sobre mim
 
-🚀 Estudante de Sistemas de Informação e futuro Desenvolvedor Full Stack.
-
-Sou apaixonado por tecnologia, programação e pela criação de soluções que facilitam o dia a dia das pessoas. Estou sempre buscando aprender novas tecnologias, desenvolver projetos e evoluir minhas habilidades para construir aplicações modernas, eficientes e escaláveis.
-
----
-
-## 🚀 Sobre Mim
-
-* 🎓 Estudante de Sistemas de Informação
-* 💻 Focado em Desenvolvimento Full Stack
-* 📚 Aprendendo continuamente novas tecnologias
-* 🔍 Interessado em Desenvolvimento Web, Banco de Dados e Arquitetura de Software
-* 🎯 Objetivo: Me tornar um Desenvolvedor Full Stack completo
+```javascript
+const tulio = {
+  cursando: "Sistemas de Informação",
+  objetivo: "Desenvolvedor Full Stack",
+  estudando: ["JavaScript", "React", "Node.js", "Python"],
+  hobbies: ["Musculação", "Tecnologia", "Aprender coisas novas"],
+  foco: "Criar soluções que impactem positivamente a vida das pessoas"
+}
+```
 
 ---
 
-## 👩‍💻 Trabalho atualmente com
+## 🎯 Metas para 2026
 
-* Desenvolvimento Web
-* Projetos Acadêmicos
-* Aplicações Front-end e Back-end
-* Banco de Dados Relacionais
-
----
-
-## 🧠 Estou Aprendendo
-
-* React
-* TypeScript
-* PHP
-* C#
-* APIs REST
-* Arquitetura de Software
-* Docker
-* Boas Práticas de Desenvolvimento
+* [ ] Conseguir minha primeira oportunidade na área
+* [ ] Aprimorar conhecimentos em React e Node.js
+* [ ] Construir projetos Full Stack completos
+* [ ] Contribuir para projetos Open Source
+* [x] Evoluir constantemente como desenvolvedor
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💪 Fora do Código
 
-### Front-end
+🏋️ Treino musculação regularmente
 
-### Back-end
+🥗 Busco manter uma alimentação equilibrada
 
-### Banco de Dados
+📚 Gosto de aprender sobre tecnologia, produtividade e desenvolvimento pessoal
 
-### Versionamento e Ferramentas
-
----
-
-## 📊 Estatísticas GitHub
+🚀 Sempre procurando crescer profissionalmente e como pessoa
 
 ---
 
-## 🐍 Contribuições
+## 🌟 Frase que me representa
 
----
-
-## 🔗 Contato
-
-[tuliohenrique349@gmail.com](mailto:tuliohenrique349@gmail.com)
-
-https://www.linkedin.com/in/tulio-henrique1008/
-
----
-
-### 💡 Frase que me inspira
-
-"Transformando ideias em soluções através da tecnologia."
-## Minhas contribuições
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tuliohenriquesilva/tuliohenriquesilva/output/pacman-contribution-graph-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tuliohenriquesilva/tuliohenriquesilva/output/pacman-contribution-graph.svg"
-  />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
-</picture>
-
+> "Pequenas evoluções diárias geram grandes resultados no futuro."
 
 
