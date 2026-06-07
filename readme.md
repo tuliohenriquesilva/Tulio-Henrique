@@ -69,6 +69,19 @@ https://www.linkedin.com/in/tulio-henrique1008/
 ### 💡 Frase que me inspira
 
 "Transformando ideias em soluções através da tecnologia."
+## Minhas contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/tuliohenriquesilva/tuliohenriquesilva/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/tuliohenriquesilva/tuliohenriquesilva/output/pacman-contribution-graph.svg"
+  />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
